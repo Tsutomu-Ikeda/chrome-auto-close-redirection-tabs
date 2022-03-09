@@ -1,13 +1,10 @@
 {
   "name": "Slack Auto Close",
   "version": "1.0.0",
-  "manifest_version": 2,
+  "manifest_version": 3,
   "description": "Slackのリンクページを自動的に閉じる",
   "background": {
-    "scripts": [
-      "index.js"
-    ],
-    "persistent": false
+    "service_worker": "index.js"
   },
   "permissions": [
     "tabs"
