@@ -1,8 +1,8 @@
 {
-  "name": "Slack Auto Close",
+  "name": "Auto Close Redirection Tabs",
   "version": "1.0.0",
   "manifest_version": 3,
-  "description": "Slackのリンクページを自動的に閉じる",
+  "description": "SlackやZoomのリンクを開いたときに残るタブを自動的に閉じてくれる拡張機能です。",
   "background": {
     "service_worker": "index.js"
   },
