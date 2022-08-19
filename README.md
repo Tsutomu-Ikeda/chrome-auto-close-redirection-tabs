@@ -5,10 +5,14 @@ SlackやZoomのリンクを開いたときに残るタブを自動的に閉じ�
 
 なお、Chrome ウェブストアで「Close Zoom Link」と検索すると、いろんな拡張機能が出てきます。「パッケージ化されていない拡張機能を読み込む」のがめんどくさい方はそちらを使ってみてください。
 
-- [Zoom Closer](https://chrome.google.com/webstore/detail/zoom-closer/appjbedfhcmpknanmbndpojcllfaemal?hl=ja)
+- [Meetings Page Auto Closer for Zoom](https://chrome.google.com/webstore/detail/meetings-page-auto-closer/pbgidoglkjhfgjhalbbiiahdlokjcplb?hl=ja)
 - [Redirect Tab Closer](https://chrome.google.com/webstore/detail/redirect-tab-closer/fdffoepgfafohjnlmdeaekigejifenpd?hl=ja)
+- [Zoom Closer](https://chrome.google.com/webstore/detail/zoom-closer/appjbedfhcmpknanmbndpojcllfaemal?hl=ja)
+- [Clozoom](https://chrome.google.com/webstore/detail/clozoom/ginkdklliadpegalhjlibeggnnbdkghi?hl=ja)
+- [Bluejeans/Zoom Closer](https://chrome.google.com/webstore/detail/bluejeanszoom-closer/jnpjcapbahjpooibdheccijcjalacdno?hl=ja)
+- [Tab Closer for Zoom](https://chrome.google.com/webstore/detail/tab-closer-for-zoom/dipbdmjcnihnpjpignoilhljekeimlkp?hl=ja)
 
-※上記のリンクは拡張機能の安全性を保証するものではありません。
+※上記のリンクはそれぞれの拡張機能の安全性を保証するものではありません。
 
 ## セットアップ手順
 
